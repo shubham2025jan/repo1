@@ -1,0 +1,15 @@
+for search pusose press window key
+
+type control panel
+
+click on programs
+
+click on programs and features
+
+turns windows on oe
+
+windows subsystem linux
+
+
+
+restart now
