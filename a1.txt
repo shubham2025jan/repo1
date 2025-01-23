@@ -1,6 +1,0 @@
-this is the first github file in the repo 1
-the file name isa1.txt
-commit changes
-
-
-modifies 
